@@ -9,6 +9,7 @@ os.environ["OPENAI_API_KEY"] = chat_api_list[0]
 ```
 
 2. Conduct customized Question Answering
-```Run The notebook
+```python
+Run The notebook
 ```
 
